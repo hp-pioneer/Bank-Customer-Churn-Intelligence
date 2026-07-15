@@ -1,0 +1,16 @@
+Feature,Mean Absolute SHAP Value
+Number of Products,0.7346
+Age,0.7334
+Geography Germany,0.245
+Gender Male,0.2075
+Is Active Member,0.1727
+Engagement Score,0.1691
+Balance,0.113
+Balance to Salary Ratio,0.0994
+Estimated Salary,0.0704
+CreditScore,0.0505
+Product Density,0.0245
+Age Tenure Interaction,0.0229
+Geography Spain,0.0204
+Has Credit Card,0.0138
+Tenure,0.0078

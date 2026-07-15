@@ -1,0 +1,16 @@
+Feature,Importance
+Age,0.3762
+Number of Products,0.267
+Engagement Score,0.0665
+Is Active Member,0.0636
+Balance,0.0596
+Geography Germany,0.0561
+Balance to Salary Ratio,0.0314
+Estimated Salary,0.0237
+CreditScore,0.0231
+Gender Male,0.0145
+Age Tenure Interaction,0.0101
+Product Density,0.0053
+Tenure,0.001
+Geography Spain,0.001
+Has Credit Card,0.0009

@@ -1,0 +1,771 @@
+Retention Priority,Customer ID,Surname,Geography,Gender,Age,Tenure,Credit Score,Balance,Number of Products,Has Credit Card,Is Active Member,Estimated Salary,Churn Probability Percent,Risk Level,Predicted Churn,Actual Churn,Recommended Retention Action
+1,15692416,Aikenhead,Spain,Female,52,8,358,143542.36,3,1,0,141959.11,99.2,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+2,15640846,Chibueze,Germany,Female,58,3,546,106458.31,4,1,0,128881.87,99.0,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+3,15653776,Salier,Germany,Female,57,1,720,162082.31,4,0,0,27145.73,98.94,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+4,15703793,Konovalova,Germany,Male,58,2,738,133745.44,4,1,0,28373.86,98.89,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+5,15806808,Hope,Germany,Female,57,8,834,112281.6,3,1,0,140225.14,98.85,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+6,15783019,Price,France,Female,62,9,794,123681.32,3,1,0,173586.63,98.72,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+7,15757408,Lo,Spain,Male,38,3,655,250898.09,3,0,1,81054.0,98.69,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+8,15570002,Burlingame,Germany,Female,55,8,625,118772.71,4,0,0,135853.62,98.69,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+9,15734762,Ignatiev,France,Female,56,3,602,115895.22,3,1,0,4176.17,98.57,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+10,15582129,Hsia,France,Male,62,1,517,43772.66,3,1,0,187756.24,98.5,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+11,15647725,Napolitano,France,Female,61,5,675,62055.17,3,1,0,166305.16,98.44,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+12,15597914,Evdokimov,Germany,Female,51,2,641,117306.69,4,1,1,26912.72,98.42,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+13,15666548,Chung,Germany,Female,56,2,466,111920.13,3,1,0,197634.11,98.41,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+14,15608338,Chiemenam,Spain,Female,55,9,757,117294.12,4,1,0,94187.47,98.4,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+15,15752342,Bradley,Germany,Female,54,6,704,133656.91,3,1,0,145071.33,98.35,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+16,15765173,Lin,France,Female,60,3,350,0.0,1,0,0,113796.15,98.33,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+17,15641175,Munro,Germany,Male,63,3,701,120916.52,3,0,0,144727.45,98.33,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+18,15787189,Tai,Germany,Male,60,8,824,134250.17,3,0,0,153046.16,98.24,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+19,15710087,Nicholls,Germany,Female,54,3,705,125889.3,3,1,0,96013.5,98.19,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+20,15662291,Davidson,France,Female,55,8,534,116973.26,3,1,0,122066.5,98.05,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+21,15599329,Christopher,France,Female,49,7,697,195238.29,4,0,1,131083.56,98.01,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+22,15589017,Chiu,Germany,Male,55,4,547,111362.76,3,1,0,16922.28,98.0,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+23,15601594,Ifeanacho,France,Female,51,6,698,144237.91,4,1,0,157143.61,97.97,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+24,15803538,Douglas,Spain,Male,56,1,695,0.0,3,1,0,187734.49,97.92,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+25,15696989,Chukwueloka,Germany,Female,52,8,469,139493.25,3,0,0,150093.32,97.85,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+26,15609824,Fedorov,France,Female,41,7,794,176845.41,3,1,0,166526.26,97.77,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+27,15779947,Thomas,Spain,Female,28,6,363,146098.43,3,1,0,100615.14,97.77,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+28,15656148,Obinna,Germany,Female,29,4,376,115046.74,4,1,0,119346.88,97.69,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+29,15592773,Eberegbulam,Germany,Female,51,0,630,108449.23,3,0,0,88372.69,97.69,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+30,15704442,Fleming,France,Female,53,9,672,169406.33,4,1,1,147311.47,97.56,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+31,15740223,Walton,Germany,Male,51,1,479,107714.74,3,1,0,86128.21,97.56,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+32,15731815,Nepean,Spain,Male,63,4,529,96134.11,3,1,0,108732.96,97.53,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+33,15624820,Ross,Spain,Male,56,7,683,50911.21,3,0,0,97629.31,97.51,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+34,15623210,Smith,Germany,Female,55,8,484,149349.58,3,0,0,137519.92,97.45,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+35,15694376,Sullivan,Germany,Female,64,3,705,153469.26,3,0,0,146573.66,97.44,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+36,15670374,Wright,Germany,Female,49,1,819,120656.86,4,0,0,166164.3,97.42,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+37,15622033,Rapuluchukwu,Germany,Female,41,3,847,101543.51,4,1,0,16025.17,97.37,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+38,15668889,Galgano,Germany,Female,43,2,665,116322.27,4,1,0,35640.12,97.35,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+39,15723318,Mactier,France,Female,55,0,619,0.0,3,0,0,60810.64,97.31,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+40,15671591,Castiglione,Spain,Male,52,3,439,96196.24,4,1,0,198874.52,97.3,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+41,15791700,Ugochukwutubelum,Germany,Male,47,2,773,118079.47,4,1,1,143007.49,97.27,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+42,15750778,Ponomarev,France,Female,60,2,653,120731.39,4,1,1,138160.11,97.24,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+43,15616859,Bonwick,Germany,Female,43,2,602,113641.49,4,1,0,115116.35,97.2,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+44,15783615,Ramos,Germany,Male,50,3,630,129370.91,4,1,1,47775.34,97.17,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+45,15621550,Hung,Spain,Female,50,1,535,140292.58,3,0,0,69531.22,97.14,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+46,15808044,Ts'ui,France,Female,65,9,580,106804.26,3,1,0,107890.69,97.1,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+47,15701602,Ayers,Germany,Male,52,5,521,116497.31,3,0,0,53793.1,97.09,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+48,15576824,Kennedy,Germany,Female,44,3,564,111760.4,3,1,1,104722.47,96.95,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+49,15673591,Oluchukwu,France,Male,44,3,842,141252.18,4,0,1,128521.16,96.93,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+50,15610446,Chinedum,France,Female,51,4,714,88308.87,3,0,0,5862.53,96.88,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+51,15679249,Chou,Germany,Female,57,4,351,163146.46,1,1,0,169621.69,96.78,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+52,15663650,Russell,Germany,Male,52,10,698,107304.39,3,1,0,28806.32,96.74,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+53,15665283,Brookes,France,Female,57,7,610,72092.95,4,0,1,113228.82,96.74,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+54,15592583,Colman,France,Female,47,1,731,115414.19,3,0,0,191734.67,96.73,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+55,15775318,Lu,Spain,Female,51,3,590,154962.99,3,0,1,191932.27,96.71,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+56,15648681,Voronoff,France,Female,47,5,747,139914.6,4,0,1,129964.56,96.63,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+57,15724161,Sutton,France,Female,40,9,644,137285.26,4,1,0,77063.63,96.53,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+58,15736510,Loggia,Spain,Female,57,2,605,0.0,3,1,0,66652.75,96.45,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+59,15595324,Daniels,Germany,Female,39,5,579,117833.3,3,0,0,5831.0,96.45,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+60,15721426,Milne,Germany,Male,65,10,606,126306.64,3,0,0,7861.68,96.43,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+61,15718893,Pirozzi,Germany,Female,54,4,404,125456.07,1,1,0,83715.66,96.38,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+62,15727317,Brady,Germany,Female,49,1,533,102286.6,3,1,0,69409.37,96.36,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+63,15779176,Dike,Germany,Female,58,3,565,108888.24,3,0,1,135875.51,96.27,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+64,15656822,Day,Germany,Male,43,5,568,87612.64,4,1,1,107155.4,96.18,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+65,15746333,Blake,France,Female,57,3,562,0.0,3,1,0,6554.97,96.18,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+66,15647898,Russell,Spain,Female,50,5,610,130554.51,3,1,0,184758.17,96.15,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+67,15719508,Davis,Germany,Male,49,7,575,121205.15,4,1,1,168080.53,96.1,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+68,15804586,Lin,France,Female,46,6,376,0.0,1,1,0,157333.69,96.09,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+69,15764866,Synnot,Germany,Female,43,3,539,116220.5,3,1,0,55803.96,96.03,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+70,15655082,Pape,France,Female,48,4,607,112070.86,3,1,0,173568.3,95.97,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+71,15610383,Dumetolisa,France,Female,46,1,628,46870.43,4,1,0,31272.14,95.95,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+72,15808674,Ejikemeifeuwa,Germany,Female,45,6,616,128352.59,3,1,1,144000.59,95.92,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+73,15799966,Chigolum,Germany,Female,59,9,792,101609.77,1,0,0,161479.19,95.92,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+74,15791780,Ts'ao,Germany,Female,48,10,706,104478.12,3,0,1,158248.71,95.89,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+75,15724076,Christie,Spain,Female,57,5,815,0.0,3,0,0,38941.44,95.89,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+76,15625761,Maclean,Germany,Male,41,8,632,127205.32,4,1,0,93874.87,95.84,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+77,15641675,Kirillova,France,Female,49,2,611,88915.37,3,0,0,161435.02,95.74,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+78,15651052,McMasters,Germany,Male,46,2,399,127655.22,1,1,0,139994.68,95.74,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+79,15593782,Brookes,Germany,Female,38,5,816,130878.75,3,1,0,71905.77,95.71,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+80,15679770,Smith,France,Female,61,3,611,131583.59,4,0,1,66238.23,95.69,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+81,15737452,Romeo,Germany,Male,58,1,653,132602.88,1,1,0,5097.67,95.68,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+82,15786196,Han,France,Female,44,3,555,105770.7,3,1,0,60533.96,95.56,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+83,15621423,Lavrentyev,France,Female,42,7,736,117280.23,3,0,0,41921.06,95.51,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+84,15602797,Okwudilichukwu,Spain,Female,49,5,645,110132.55,3,0,1,187689.91,95.48,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+85,15778975,Nnonso,Germany,Female,70,1,850,96947.58,3,1,0,62282.99,95.44,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+86,15668248,Quinn,Germany,Female,62,7,528,133201.17,1,0,0,168507.68,95.43,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+87,15751158,Mashman,France,Female,42,4,571,108825.34,3,1,0,55558.51,95.4,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+88,15654562,Ma,Spain,Female,45,5,850,174088.3,4,1,0,5669.31,95.39,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+89,15747757,Trevascus,Germany,Female,58,8,600,118723.11,1,0,0,6209.51,95.39,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+90,15651674,Billson,Spain,Female,54,2,438,0.0,1,0,0,191763.07,95.38,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+91,15664754,Steele,Germany,Male,39,9,640,131607.28,4,0,1,6981.43,95.37,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+92,15787907,Wang,Germany,Female,42,5,719,137227.04,3,1,0,149097.38,95.31,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+93,15624180,Genovesi,Germany,Female,37,10,584,134171.8,4,1,1,70927.11,95.29,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+94,15796764,Bruno,Germany,Female,56,3,684,127585.98,3,1,1,80593.49,95.28,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+95,15689341,Gibbs,France,Female,50,10,655,0.0,4,1,0,179267.94,95.27,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+96,15603554,Berkeley,France,Female,45,0,513,164649.52,3,1,0,49915.52,95.26,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+97,15688849,Martin,France,Male,48,1,609,108019.27,3,1,1,184524.65,95.24,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+98,15787255,Manfrin,Germany,Female,55,2,650,140891.46,3,1,1,179834.45,95.14,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+99,15686835,Crawford,Germany,Female,57,9,738,148384.64,1,0,0,155047.11,95.13,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+100,15619304,Onio,France,Female,42,8,502,159660.8,3,1,0,113931.57,95.11,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+101,15752294,Long,France,Female,38,9,582,135979.01,4,1,1,76582.95,95.09,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+102,15766355,Lettiere,Germany,Male,49,0,550,108806.96,3,1,0,61446.92,95.05,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+103,15701439,Fanucci,Spain,Female,50,1,698,0.0,4,1,0,88566.9,95.03,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+104,15646720,Tsui,Spain,Female,55,7,628,0.0,3,1,0,85890.75,95.0,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+105,15759436,Aksenov,France,Female,50,2,758,95813.76,3,1,1,67944.09,95.0,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+106,15638610,Kennedy,Germany,Female,65,5,635,117325.54,1,1,0,155799.86,95.0,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+107,15634551,Williamson,Germany,Male,46,3,727,115248.11,4,1,0,130752.01,94.99,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+108,15611767,Mai,Germany,Female,52,0,624,133723.43,1,0,0,4859.59,94.98,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+109,15622478,Greaves,France,Female,40,7,698,105061.74,3,1,0,107815.31,94.98,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+110,15633194,Osborne,France,Female,41,10,771,108309.0,4,1,1,137510.41,94.97,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+111,15810418,T'ang,Germany,Female,60,3,756,115924.89,1,1,0,93524.19,94.95,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+112,15712813,Nevzorova,Germany,Male,43,3,520,150805.17,3,0,1,25333.03,94.94,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+113,15609998,Okwudilichukwu,Germany,Female,59,5,700,137648.41,1,1,0,142977.05,94.87,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+114,15596013,Akhtar,Germany,Female,58,1,694,143212.22,1,0,0,102628.56,94.86,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+115,15677336,Aitken,Germany,Male,57,1,557,120043.13,1,1,0,132370.75,94.85,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+116,15753332,Loftus,Germany,Male,48,8,401,128140.17,1,1,0,175753.55,94.84,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+117,15602735,Kuo,Germany,Male,45,6,692,152296.83,4,0,1,108040.86,94.82,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+118,15659931,Ibezimako,Germany,Female,55,1,637,123378.2,1,1,0,81431.99,94.76,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+119,15601410,Tien,Spain,Female,46,1,744,0.0,3,1,1,177431.59,94.63,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+120,15612525,Preston,France,Female,57,1,499,0.0,1,0,0,131372.38,94.62,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+121,15730287,Ugonna,France,Male,41,8,679,147726.98,3,1,0,172749.4,94.59,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+122,15707637,Zikoranachukwudimma,France,Female,56,1,765,0.0,1,1,0,13228.93,94.56,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+123,15806688,Manfrin,Spain,Female,56,8,726,123110.9,3,0,1,130113.78,94.56,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+124,15609070,Findlay,Germany,Male,45,7,515,120961.5,3,1,1,39288.11,94.48,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+125,15712551,Shen,Germany,Female,58,7,622,116922.25,1,1,0,120415.61,94.47,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+126,15712403,McMillan,France,Female,61,1,589,0.0,1,1,0,61108.56,94.42,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+127,15749583,Bellucci,Germany,Female,38,2,686,93569.86,3,0,0,10137.34,94.37,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+128,15797960,Skinner,Germany,Female,59,0,806,135296.33,1,1,0,182822.5,94.34,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+129,15672056,Kenenna,Germany,Male,43,2,710,140080.32,3,1,1,157908.19,94.33,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+130,15771728,Mackenzie,Germany,Male,41,7,641,104405.54,3,1,0,17384.21,94.32,High Risk,1,0,"Review product suitability, fees, service quality, and product complexity"
+131,15617482,Milanesi,Germany,Female,52,1,489,131441.51,1,1,0,37240.11,94.3,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+132,15750156,Yu,Germany,Male,59,2,662,104568.41,1,1,0,8059.44,94.29,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+133,15768471,Wagner,Germany,Female,54,6,554,108755.0,1,1,0,40914.32,94.27,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+134,15776233,Kruglova,Germany,Female,61,8,758,125397.21,1,1,0,182184.09,94.22,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+135,15792473,Reilly,Germany,Female,50,5,598,88379.81,3,0,1,64157.24,94.21,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+136,15720559,Heath,Germany,Female,61,5,487,110368.03,1,0,0,11384.45,94.21,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+137,15651883,Genovesi,Germany,Female,55,6,794,115796.7,1,1,0,160526.36,94.21,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+138,15792305,Mountgarrett,Germany,Male,46,6,762,123571.77,3,0,1,57014.17,94.2,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+139,15666297,Abramova,Spain,Female,53,3,706,0.0,3,0,0,88479.02,94.14,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+140,15734711,Loggia,France,Male,42,7,373,0.0,1,1,0,77786.37,94.12,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+141,15592925,Giordano,Spain,Male,42,3,711,177626.77,3,0,1,16392.72,94.12,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+142,15606386,Wang,Germany,Female,46,3,753,111512.75,3,1,0,159576.75,94.1,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+143,15794142,Ferreira,Germany,Female,62,5,564,114931.35,3,0,1,18260.98,94.07,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+144,15568819,Chiganu,Germany,Female,42,8,619,132796.04,3,1,1,191821.35,94.06,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+145,15669664,Thompson,Germany,Male,54,1,574,99774.5,1,0,0,4896.11,94.06,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+146,15583456,Gardiner,Germany,Male,45,10,745,117231.63,3,1,1,122381.02,94.05,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+147,15800061,Moretti,Spain,Female,45,3,495,89158.94,3,1,0,135169.76,94.02,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+148,15784761,Ballard,Spain,Female,46,7,554,87603.35,3,0,1,96929.24,94.02,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+149,15692750,McGregor,Germany,Female,45,7,629,129818.39,3,1,0,9217.55,94.01,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+150,15750335,Paterson,Germany,Male,43,0,850,108508.82,3,1,0,184044.8,94.0,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+151,15815316,Kennedy,France,Male,50,9,644,76817.0,4,1,0,196371.13,93.96,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+152,15588955,Mazzi,Germany,Female,43,5,581,93259.57,3,1,0,141035.65,93.96,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+153,15662098,Palmer,Spain,Male,41,3,650,128808.65,3,0,0,113677.53,93.87,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+154,15584037,Denisov,Germany,Male,58,5,727,106913.43,1,1,0,25881.0,93.86,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+155,15663410,Piccio,Spain,Male,51,5,771,135506.58,3,1,1,152479.64,93.86,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+156,15795759,Bergamaschi,Germany,Female,52,1,698,107906.75,1,1,0,168886.39,93.83,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+157,15653937,McIntyre,Germany,Female,53,1,638,123916.67,1,1,0,16657.68,93.82,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+158,15569249,Howarth,France,Female,55,6,576,44582.07,3,0,1,67539.85,93.77,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+159,15625092,Colombo,Germany,Female,57,3,502,101465.31,1,1,0,43568.31,93.68,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+160,15782688,Piccio,Germany,Male,56,0,625,148507.24,1,1,0,46824.08,93.64,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+161,15689886,Holden,Germany,Male,39,10,626,132287.92,3,1,1,51467.92,93.61,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+162,15743490,Zikoranachidimma,Germany,Female,56,9,795,94348.94,1,1,0,29239.29,93.59,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+163,15711843,Pisani,Germany,Male,40,1,613,147856.82,3,0,0,107961.11,93.55,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+164,15788776,Landor,Germany,Male,49,6,588,132623.76,3,1,0,36292.94,93.55,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+165,15813168,Maslova,Germany,Female,39,3,756,100717.85,3,1,1,73406.04,93.48,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+166,15805260,Wood,Germany,Female,56,2,705,143249.67,1,1,0,88428.41,93.45,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+167,15684801,Abbott,France,Male,47,1,689,93871.95,3,1,0,156878.42,93.44,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+168,15708867,Niu,Spain,Female,38,3,684,134168.5,3,1,0,3966.5,93.42,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+169,15681007,Yen,France,Female,35,2,850,128548.49,4,1,0,75478.95,93.37,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+170,15767474,Lorenzo,France,Female,57,9,481,0.0,3,1,1,169719.35,93.35,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+171,15755178,Ramos,France,Male,50,1,660,0.0,3,1,1,191849.15,93.34,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+172,15654733,Hsieh,Germany,Male,57,3,794,117056.46,1,1,0,93336.93,93.33,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+173,15612478,Somadina,France,Male,51,10,525,0.0,3,1,0,171045.35,93.31,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+174,15603135,Boni,Germany,Female,59,3,634,95727.05,1,0,0,97939.4,93.3,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+175,15595592,Lai,France,Female,59,2,708,0.0,1,1,0,179673.11,93.26,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+176,15727619,Lock,Germany,Female,46,9,753,113909.69,3,1,0,92320.37,93.25,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+177,15734610,Onio,France,Male,42,4,543,89838.71,3,1,0,85983.54,93.22,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+178,15686242,Otutodilichukwu,France,Female,57,4,771,0.0,1,0,0,85876.67,93.21,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+179,15811762,Pickering,Germany,Female,54,6,583,115988.86,1,1,0,57553.98,93.19,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+180,15753337,Yeates,France,Male,51,5,555,0.0,3,1,0,189122.89,93.18,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+181,15663164,Yudin,Germany,Male,49,7,663,116150.65,3,1,1,84358.71,93.16,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+182,15785367,McGuffog,France,Female,56,4,651,0.0,1,0,0,84383.22,93.08,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+183,15793307,Calabresi,Spain,Female,41,4,724,142880.28,3,0,0,185541.2,93.04,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+184,15757535,Heap,Spain,Female,44,5,647,0.0,3,1,1,174205.22,92.98,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+185,15636977,Trevisan,Germany,Male,36,9,507,118214.32,3,1,0,119110.03,92.97,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+186,15666711,Ukaegbulam,France,Female,46,0,586,0.0,3,0,1,131553.82,92.95,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+187,15668283,Gardiner,France,Male,48,9,642,118317.27,4,0,0,78702.98,92.94,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+188,15720929,Kazantseva,France,Female,47,8,604,62094.71,3,0,0,9308.1,92.94,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+189,15638882,Cardell,Germany,Female,62,9,710,148214.36,1,1,0,48571.14,92.9,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+190,15717770,Marcelo,Spain,Female,55,7,850,0.0,1,0,0,171762.87,92.89,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+191,15791321,Nwora,Spain,Female,58,4,682,0.0,1,1,0,176036.01,92.88,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+192,15701687,Campbell,Spain,Male,44,7,664,77526.66,3,0,0,57338.56,92.87,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+193,15655123,Dumetolisa,Spain,Female,45,9,505,131355.3,3,1,0,195395.33,92.83,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+194,15640852,McGregor,Germany,Female,39,5,617,83348.89,3,1,0,7953.62,92.83,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+195,15761294,Manna,Germany,Female,56,8,667,137464.04,1,1,0,130846.79,92.82,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+196,15781272,Coles,France,Male,50,4,669,149713.61,3,1,1,124872.42,92.77,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+197,15807120,Oluchukwu,Germany,Female,52,3,841,112383.03,1,1,0,85516.37,92.76,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+198,15769246,Lo Duca,Germany,Male,59,2,813,135078.41,1,1,0,187636.06,92.75,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+199,15708534,Afamefuna,Spain,Female,64,5,524,0.0,1,1,0,136079.64,92.75,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+200,15796910,Tsui,Spain,Female,57,7,625,0.0,1,0,0,84106.17,92.73,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+201,15664270,Balsillie,Germany,Male,45,6,692,142084.04,4,1,0,188305.85,92.72,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+202,15683416,Russo,Germany,Male,51,8,572,97750.07,3,1,1,193014.26,92.71,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+203,15591107,Flemming,Germany,Female,68,3,723,110357.0,1,0,0,141977.54,92.66,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+204,15774358,Robertson,Germany,Male,59,4,443,110939.3,1,1,0,72846.58,92.65,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+205,15605059,Mackie,Germany,Male,63,3,576,148843.56,1,1,0,69414.13,92.62,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+206,15606641,Beggs,Germany,Male,56,10,762,100260.88,3,1,1,77142.42,92.49,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+207,15635964,Eve,Germany,Male,65,4,566,120100.41,1,1,0,107563.16,92.49,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+208,15639357,Allan,France,Male,46,9,415,134950.19,3,0,0,178587.36,92.47,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+209,15813659,Folliero,France,Female,56,7,594,0.0,1,1,0,26215.85,92.44,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+210,15724858,Begum,France,Female,54,9,688,0.0,1,1,0,191212.63,92.38,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+211,15645847,P'eng,Germany,Male,35,2,569,109196.66,3,1,0,109393.19,92.35,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+212,15767264,Lawson,Germany,Male,53,1,465,117438.17,1,0,0,74898.8,92.28,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+213,15609623,McConnell,France,Female,63,5,637,0.0,1,1,0,28092.77,92.26,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+214,15813113,Chang,Spain,Female,56,5,795,0.0,1,1,0,35418.69,92.25,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+215,15749519,Lin,France,Male,38,6,822,128289.7,3,1,0,9149.96,92.22,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+216,15716609,L?,Germany,Male,54,3,484,134388.11,1,0,0,49954.79,92.17,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+217,15811690,Bayley,Germany,Male,54,2,793,128966.13,1,0,0,18633.4,92.17,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+218,15635364,Gray,France,Female,49,9,618,44301.43,3,1,1,89729.3,92.14,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+219,15671534,Hovell,Germany,Female,57,6,646,90212.0,1,1,0,13911.27,92.13,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+220,15753174,Thompson,Germany,Male,37,9,571,139592.98,3,1,0,104152.65,92.1,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+221,15585362,Simmons,France,Female,60,6,749,0.0,1,1,0,17978.68,92.06,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+222,15592736,Lucchese,Germany,Male,54,5,551,102994.04,1,1,0,176680.16,92.01,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+223,15695339,Lucchesi,Germany,Male,53,0,517,109172.88,1,1,0,54676.1,92.0,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+224,15645200,Chiang,Germany,Female,54,2,581,152508.99,1,1,0,187597.98,91.99,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+225,15657809,Lo,France,Male,55,10,585,106415.57,3,1,1,122960.98,91.99,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+226,15606613,Samson,France,Female,59,7,655,0.0,1,1,0,88958.49,91.93,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+227,15711446,Sinclair,Spain,Female,51,3,569,0.0,3,1,0,75084.96,91.9,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+228,15764604,Sutherland,France,Female,35,7,586,164769.02,3,1,0,119814.25,91.89,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+229,15677310,Christie,Germany,Male,62,5,761,98854.34,1,0,0,86920.97,91.88,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+230,15647008,Adams,Germany,Male,54,3,624,116726.22,1,1,0,110498.1,91.86,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+231,15639946,Sazonova,Germany,Female,39,8,597,162532.14,3,1,0,36051.46,91.84,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+232,15812210,Yashina,Germany,Female,32,8,497,111537.23,4,1,1,9497.99,91.84,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+233,15583392,Woronoff,Germany,Male,37,9,747,135776.36,3,1,0,85470.45,91.81,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+234,15759067,Bromby,Germany,Female,37,7,537,158411.95,4,1,1,117690.58,91.78,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+235,15605279,Francis,France,Male,50,9,792,0.0,4,1,1,194700.81,91.77,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+236,15721460,Lorenzo,France,Male,60,8,678,185648.56,1,0,0,192156.54,91.76,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+237,15689786,Massie,Germany,Male,56,1,850,169743.83,1,0,0,155850.4,91.76,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+238,15679884,Hs?eh,France,Male,48,10,544,78314.63,3,1,1,103713.93,91.76,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+239,15625080,Parkin,Spain,Female,54,8,745,0.0,1,1,0,173912.29,91.75,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+240,15739972,Hughes,Germany,Female,45,9,650,152367.21,3,1,0,150835.21,91.72,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+241,15764431,Chinwenma,Spain,Female,34,5,671,130929.02,4,1,1,28238.25,91.72,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+242,15590201,Fiorentini,Spain,Female,50,5,500,0.0,4,1,1,83866.35,91.7,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+243,15661275,Wynn,Germany,Male,52,3,532,110791.97,1,1,0,148704.77,91.68,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+244,15684868,Cameron,Germany,Male,56,9,668,110993.79,1,1,0,134396.64,91.62,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+245,15766575,Larionova,Germany,Female,62,8,612,140745.33,1,1,0,193437.89,91.6,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+246,15815271,Ritchie,Germany,Male,43,6,755,165048.5,3,1,0,16929.41,91.53,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+247,15605826,Korovina,Germany,Male,46,10,652,121063.8,3,1,0,151481.86,91.4,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+248,15572182,Onwuamaeze,Germany,Female,33,3,505,106506.77,3,1,0,45445.78,91.38,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+249,15691504,Yusupova,Germany,Female,52,8,619,124099.13,1,0,0,23904.52,91.37,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+250,15600399,Trentino,France,Male,60,4,598,0.0,1,1,0,197727.14,91.35,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+251,15648967,Ch'en,Germany,Female,64,1,698,169362.43,1,1,0,84760.32,91.35,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+252,15812241,Udinese,Germany,Male,59,7,438,127197.14,1,1,0,51565.98,91.34,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+253,15568006,Ukaegbunam,France,Female,45,2,634,0.0,4,1,0,101039.53,91.27,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+254,15807563,Ch'iu,France,Female,52,5,841,0.0,1,0,0,183239.71,91.21,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+255,15815490,Cocci,Germany,Male,40,2,670,164948.98,3,0,0,177028.0,91.2,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+256,15792064,Pai,Germany,Male,53,5,545,114421.55,1,1,0,180598.28,91.17,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+257,15571059,Martin,France,Female,54,3,734,0.0,1,1,0,130805.54,91.16,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+258,15669411,Muse,Germany,Female,52,6,750,107467.56,1,1,0,126233.18,91.15,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+259,15605000,John,France,Male,38,9,550,140278.99,3,1,1,171457.06,91.14,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+260,15658409,Mao,France,Male,41,5,686,128876.71,3,1,1,106939.34,91.11,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+261,15809320,McElhone,Spain,Female,52,0,845,0.0,1,1,0,31726.76,91.09,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+262,15734008,Bartlett,Germany,Male,59,5,727,152581.06,1,1,0,71830.1,91.08,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+263,15623107,Chukwumaobim,Spain,Male,45,3,686,74274.87,3,1,0,64907.48,91.02,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+264,15796230,Morley,Germany,Female,36,2,642,124495.98,3,1,1,57904.22,90.99,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+265,15658577,Massie,France,Female,37,10,629,99546.25,3,0,1,25136.95,90.98,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+266,15593425,Bracewell,Spain,Female,54,1,662,187997.15,1,0,0,111442.71,90.96,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+267,15743411,Chiawuotu,Spain,Male,61,1,609,0.0,1,1,0,22447.85,90.85,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+268,15596761,Hawdon,Germany,Male,60,9,515,113715.36,1,1,0,18424.24,90.83,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+269,15776780,He,France,Male,59,1,608,0.0,1,1,0,70649.64,90.81,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+270,15751561,Meng,Germany,Male,61,7,498,102453.26,1,1,0,187247.56,90.78,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+271,15746708,Ritchie,Germany,Male,55,7,589,119961.48,1,1,0,65156.83,90.76,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+272,15806027,Niu,France,Female,52,9,556,0.0,1,1,0,175149.2,90.75,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+273,15691785,Findlay,France,Male,61,1,850,0.0,1,1,0,53067.83,90.73,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+274,15580148,Welch,Germany,Male,40,5,750,168286.81,3,1,0,20451.99,90.72,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+275,15732266,Field,Germany,Male,53,5,553,127997.83,1,1,0,165378.66,90.71,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+276,15642391,Lettiere,Germany,Male,51,4,621,109978.83,1,0,0,177740.58,90.7,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+277,15578603,Alexeieva,Germany,Female,54,1,584,77354.37,1,0,0,138192.98,90.69,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+278,15594391,Samaniego,France,Female,68,2,770,183555.24,1,0,0,159557.28,90.67,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+279,15786463,Hsing,Germany,Female,59,8,645,121669.93,2,0,0,91.75,90.65,High Risk,1,1,Relationship-manager outreach and digital engagement support
+280,15793455,Tien,Spain,Female,55,6,627,0.0,1,0,0,91943.94,90.54,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+281,15684173,Chang,Spain,Female,44,7,687,0.0,3,1,0,155853.52,90.49,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+282,15657468,Simmons,Germany,Female,53,5,711,123805.03,1,1,0,102428.51,90.48,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+283,15603942,Hawthorn,Germany,Male,50,3,547,81290.02,3,0,1,177747.03,90.45,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+284,15724223,Bronner,France,Female,55,5,545,0.0,1,0,0,10034.77,90.43,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+285,15813946,Duffy,Germany,Male,51,1,637,104682.83,1,1,0,55266.96,90.37,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+286,15693205,Peng,Germany,Female,41,8,691,109153.96,3,1,1,148848.76,90.36,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+287,15571415,Okwudiliolisa,Germany,Male,56,6,805,151802.29,1,1,0,46791.09,90.36,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+288,15788068,Lopez,Germany,Male,45,10,743,144677.19,3,1,0,22512.44,90.33,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+289,15811588,Eluemuno,Spain,Female,53,7,664,187602.18,1,1,0,186392.99,90.32,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+290,15768342,Bolton,France,Male,52,8,718,79475.3,3,1,1,32421.32,90.27,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+291,15642821,Ijendu,Spain,Female,48,8,383,95808.19,1,0,0,137702.01,90.26,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+292,15647838,Davison,Germany,Female,51,2,648,116574.84,1,1,0,4121.04,90.26,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+293,15711028,Nnachetam,France,Male,52,1,534,0.0,3,1,1,104035.41,90.23,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+294,15702541,Fraser,France,Female,59,2,551,166968.28,1,1,0,159483.76,90.22,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+295,15775761,Iweobiegbunam,Germany,Female,69,5,610,86038.21,3,0,0,192743.06,90.16,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+296,15638607,Nwabugwu,France,Female,52,2,546,0.0,1,1,0,137332.37,90.14,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+297,15596870,Marino,Germany,Male,54,3,749,144768.94,1,1,0,93336.3,90.11,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+298,15637476,Alexandrova,Germany,Female,57,5,683,162448.69,1,0,0,9221.78,90.1,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+299,15743817,Hargreaves,Germany,Male,40,8,621,174126.75,3,1,0,172490.78,90.06,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+300,15784958,Allan,France,Female,55,10,797,0.0,4,1,1,49418.87,90.05,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+301,15796115,Forbes,Germany,Female,40,4,689,78119.59,4,1,0,119259.34,90.03,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+302,15593795,Linton,Germany,Female,53,1,516,156674.2,1,1,0,118502.34,90.02,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+303,15646190,Saunders,France,Female,56,0,677,119963.45,1,0,0,158325.87,89.98,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+304,15768451,MacDonald,Germany,Male,40,5,739,149131.03,3,1,1,60036.99,89.97,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+305,15639077,Marchesi,France,Female,30,2,622,158584.82,3,1,0,142342.55,89.83,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+306,15700487,Osonduagwuike,France,Male,46,6,805,118022.06,3,1,0,162643.15,89.82,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+307,15635116,Burgos,Spain,Male,60,2,659,0.0,1,1,0,177480.45,89.8,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+308,15745083,Lei,Germany,Male,59,8,613,91415.76,1,0,0,27965.0,89.64,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+309,15801559,Chiang,Germany,Female,41,9,693,181461.48,3,1,1,187929.43,89.61,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+310,15586585,Duncan,Germany,Female,51,2,698,111018.98,1,1,0,86410.28,89.6,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+311,15592751,Okwudiliolisa,Germany,Female,63,3,684,81245.79,1,1,0,69643.31,89.55,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+312,15672432,Giles,France,Female,53,4,594,0.0,1,1,0,5408.74,89.43,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+313,15625426,Ashbolt,Germany,Female,55,3,754,161608.81,1,1,0,8080.85,89.36,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+314,15570931,Grant,France,Male,61,5,620,0.0,1,0,0,31641.52,89.31,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+315,15726103,Tsou,Germany,Female,55,1,689,76296.81,1,1,0,42364.75,89.31,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+316,15741988,Marino,Germany,Female,52,8,492,125396.24,1,1,0,10014.72,89.27,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+317,15704583,Chikwado,France,Male,56,2,651,0.0,1,1,0,114522.68,89.26,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+318,15636089,Hs?,Germany,Female,51,1,678,145751.03,1,0,0,109718.44,89.26,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+319,15676895,Cattaneo,Germany,Female,39,6,547,74596.15,3,1,1,85746.52,89.23,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+320,15805637,Hsing,France,Male,36,9,625,108546.16,3,1,0,133807.77,89.19,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+321,15806570,Y?an,France,Female,53,4,763,0.0,1,1,0,77203.72,89.19,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+322,15743498,Winter,Germany,Male,52,9,532,137755.76,1,1,0,163191.99,89.16,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+323,15588614,Walton,France,Male,57,7,753,0.0,1,1,0,159475.08,89.16,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+324,15634974,Seppelt,France,Female,37,8,614,75150.34,4,0,1,131766.67,89.15,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+325,15794580,Ch'en,France,Male,58,4,599,0.0,1,0,0,176407.15,89.11,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+326,15757759,Okwuoma,Spain,Female,28,7,807,165969.26,3,1,0,156122.13,89.08,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+327,15616213,Levy,Germany,Female,51,9,555,138214.5,1,1,0,198715.27,89.04,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+328,15791533,Ch'ien,Spain,Male,42,6,367,93608.28,1,1,0,168816.73,89.0,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+329,15573628,Greene,Germany,Female,51,7,751,148074.79,1,1,0,146411.41,89.0,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+330,15772423,Liao,Germany,Male,54,8,739,126418.14,1,1,0,134420.75,88.97,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+331,15625824,Kornilova,Spain,Male,30,6,596,121345.88,4,1,0,41921.75,88.94,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+332,15704284,Ekechukwu,Germany,Male,57,9,736,95295.39,1,1,0,28434.44,88.91,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+333,15702571,Wright,Germany,Female,35,1,778,151958.19,3,1,1,131238.37,88.86,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+334,15579212,Chuang,France,Male,57,6,638,0.0,1,1,0,33676.48,88.77,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+335,15574068,Norman,Germany,Male,56,9,504,104217.3,1,0,0,55857.48,88.73,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+336,15571869,Lei,Germany,Female,50,4,669,112650.89,1,0,0,166386.22,88.7,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+337,15685372,Azubuike,Spain,Male,54,1,350,152677.48,1,1,1,191973.49,88.67,High Risk,1,1,Needs-based product review and personalized loyalty offer
+338,15791944,Harker,France,Male,32,7,697,175464.85,3,1,0,116442.42,88.67,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+339,15632280,Toth,Spain,Female,53,9,544,0.0,1,1,0,125692.07,88.63,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+340,15591698,P'eng,Germany,Female,49,9,849,132934.89,1,1,0,171056.65,88.61,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+341,15711716,Ferguson,France,Female,56,1,580,131368.3,1,1,0,106918.67,88.54,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+342,15763108,Davis,Germany,Male,53,7,600,106261.63,1,1,0,93629.66,88.48,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+343,15578787,Goddard,France,Female,52,4,641,0.0,1,1,0,90964.54,88.48,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+344,15663161,Chiu,Germany,Female,51,5,680,143139.87,1,0,0,47795.43,88.46,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+345,15692106,Rose,Spain,Female,25,3,606,147386.72,3,1,0,45482.04,88.44,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+346,15752081,Vassiliev,France,Female,56,10,468,0.0,3,0,1,62256.87,88.43,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+347,15613699,Schnaars,France,Female,60,7,430,73937.02,1,1,0,161937.62,88.38,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+348,15793688,Bancks,France,Male,50,9,669,201009.64,1,1,0,158032.5,88.32,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+349,15623989,Griffin,France,Male,54,3,435,0.0,1,1,0,156910.46,88.28,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+350,15752507,K?,Germany,Male,60,9,769,148846.39,1,1,0,192831.67,88.27,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+351,15651533,Brown,Germany,Female,50,5,570,129293.74,1,1,0,177805.44,88.26,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+352,15683503,Hudson,France,Female,43,8,601,0.0,3,0,1,110916.15,88.25,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+353,15680303,Gibson,France,Male,57,6,594,0.0,1,1,0,19376.56,88.21,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+354,15702095,Clarke,Spain,Female,56,1,585,128472.8,1,1,0,186476.91,88.14,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+355,15659736,Herbert,Germany,Male,66,5,716,121411.9,1,0,0,10070.4,88.13,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+356,15807609,Yuan,Spain,Female,25,3,650,86605.5,3,1,0,16649.31,88.11,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+357,15619955,Bevington,Germany,Male,34,3,733,100337.96,3,1,0,48559.19,88.09,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+358,15672594,Stevenson,France,Female,60,0,597,131778.08,1,0,0,10703.53,88.02,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+359,15739592,Sokolov,Germany,Female,51,10,707,98438.23,1,0,0,70778.63,88.01,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+360,15720371,McLean,France,Female,51,3,652,0.0,1,1,0,173989.47,88.01,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+361,15708063,Walker,France,Male,36,2,712,100749.5,3,0,0,70758.37,87.98,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+362,15610686,Melton,France,Male,63,8,850,169832.57,1,0,0,184107.26,87.95,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+363,15745326,Carandini,France,Female,62,3,538,75051.49,1,0,0,17682.02,87.94,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+364,15626147,Maclean,France,Female,62,8,608,144976.5,1,0,0,175836.03,87.91,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+365,15665077,Vogel,France,Female,43,5,598,0.0,3,1,1,100722.72,87.88,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+366,15771668,Henderson,France,Male,59,10,578,185966.64,1,0,0,9445.42,87.88,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+367,15694444,Buttenshaw,Germany,Female,32,8,648,157138.99,3,1,0,190994.48,87.86,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+368,15651900,Bergamaschi,Germany,Female,53,1,782,81571.05,1,1,0,182960.46,87.76,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+369,15743236,Piccio,France,Female,61,7,687,80538.56,1,1,0,131305.37,87.63,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+370,15664001,Riddle,Germany,Female,53,8,695,95231.91,1,0,0,70140.8,87.62,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+371,15679145,Chou,Spain,Male,57,7,706,0.0,1,1,0,17941.16,87.61,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+372,15798895,Okonkwo,France,Female,59,6,525,55328.4,1,1,0,83342.73,87.58,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+373,15690546,Riley,France,Female,42,2,618,0.0,4,0,0,111097.39,87.53,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+374,15724863,Sheppard,Spain,Female,55,4,420,91893.32,1,1,0,144870.28,87.51,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+375,15612494,Panicucci,France,Female,44,6,359,128747.69,1,1,0,146955.71,87.49,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+376,15651664,Wilder,France,Female,61,1,615,104267.7,1,1,0,62845.64,87.45,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+377,15813412,Barlow,France,Female,55,3,721,44020.89,1,1,0,65864.4,87.38,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+378,15651264,Yobanna,Germany,Male,51,4,850,124425.99,1,0,0,118545.49,87.38,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+379,15577999,Sleeman,France,Female,62,1,850,124678.35,1,1,0,70916.0,87.3,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+380,15648455,Kung,Germany,Male,51,4,647,131156.76,1,1,0,29883.63,87.28,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+381,15803202,Onyekachi,France,Male,51,10,350,0.0,1,1,1,125823.79,87.28,High Risk,1,1,Needs-based product review and personalized loyalty offer
+382,15644833,Duncan,France,Male,54,2,675,0.0,1,1,0,149583.67,87.23,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+383,15797165,Bergamaschi,France,Male,56,9,703,0.0,1,0,0,85547.33,87.13,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+384,15618774,White,France,Male,54,3,474,0.0,1,1,0,108409.17,87.12,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+385,15600975,Chiemenam,France,Female,54,4,556,150005.38,1,1,0,157015.5,87.05,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+386,15658982,Napolitani,Germany,Female,28,5,650,122034.4,3,0,1,146663.43,87.04,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+387,15641604,Frolova,France,Female,55,10,850,98488.08,1,1,0,155879.57,86.99,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+388,15594133,Erskine,Spain,Male,62,7,697,0.0,1,1,0,129188.18,86.99,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+389,15589715,Fulks,France,Female,66,5,584,0.0,1,1,0,49553.38,86.95,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+390,15697510,Tien,Spain,Female,52,7,707,0.0,1,1,0,109688.82,86.91,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+391,15651581,Lavrentyev,Germany,Male,68,6,758,112595.85,1,1,0,35865.44,86.72,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+392,15698732,K'ung,Germany,Male,51,3,789,104677.09,1,1,0,74265.38,86.64,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+393,15772781,Ball,France,Female,51,3,703,0.0,3,1,1,77294.56,86.55,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+394,15790113,Schofield,Germany,Female,71,6,609,113317.1,1,1,0,108258.22,86.47,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+395,15691119,Martin,Germany,Male,68,4,721,136525.99,1,0,0,175399.14,86.39,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+396,15589449,Frye,France,Female,56,3,815,0.0,3,1,1,94248.16,86.36,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+397,15772482,Iloerika,Germany,Male,28,3,829,132405.52,3,1,0,104889.2,86.34,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+398,15654577,Alexeeva,Germany,Male,54,5,549,92877.33,1,1,0,2619.64,86.28,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+399,15598751,Ingram,France,Female,43,6,556,0.0,3,0,0,125154.57,86.24,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+400,15605534,Turnbull,Germany,Female,51,4,644,95560.04,1,0,0,72628.84,86.22,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+401,15750545,Chidiebere,France,Male,44,5,629,0.0,4,0,0,117572.59,86.13,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+402,15743293,Waters,Germany,Female,35,1,651,163700.78,3,1,1,29583.48,86.1,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+403,15646764,Lorenzo,Germany,Female,58,3,617,119024.75,2,1,0,35199.24,86.1,High Risk,1,1,Relationship-manager outreach and digital engagement support
+404,15658716,Banks,Germany,Female,37,5,667,92171.35,3,1,0,178106.34,86.09,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+405,15706458,Pan,Germany,Male,39,5,812,115730.71,3,1,1,185599.34,86.0,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+406,15750447,Ozoemena,France,Female,60,10,678,117738.81,1,1,0,147489.76,85.98,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+407,15611430,Abramowitz,France,Male,54,5,690,0.0,1,1,0,12847.61,85.9,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+408,15592816,Udokamma,Germany,Female,48,1,623,108076.33,1,1,0,118855.26,85.84,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+409,15792650,Watts,Spain,Male,36,0,382,0.0,1,1,1,179540.73,85.79,High Risk,1,1,Needs-based product review and personalized loyalty offer
+410,15656683,Johnson,France,Male,52,1,551,0.0,1,0,0,63584.55,85.79,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+411,15608344,Dawson,Germany,Female,29,7,749,137059.05,3,1,0,102975.72,85.74,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+412,15601012,Abdullah,France,Female,60,3,802,92887.06,1,1,0,39473.63,85.65,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+413,15700801,Eipper,Germany,Male,42,6,850,84445.68,3,0,1,60021.34,85.64,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+414,15794941,Chibueze,Germany,Female,41,1,647,85906.65,3,1,0,189159.97,85.58,High Risk,1,0,"Review product suitability, fees, service quality, and product complexity"
+415,15802593,Little,France,Female,49,7,504,0.0,3,0,1,87822.14,85.58,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+416,15754577,Boni,France,Female,51,8,556,61354.14,1,1,0,198810.65,85.54,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+417,15636454,Fu,France,Female,60,6,691,101070.69,1,1,0,177355.8,85.51,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+418,15732438,Cheng,France,Male,43,4,561,0.0,4,0,0,18522.91,85.47,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+419,15661473,Boni,Germany,Male,51,4,780,126725.25,1,1,0,195259.31,85.46,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+420,15658067,Walker,Germany,Female,48,3,636,120568.41,1,1,0,190160.04,85.45,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+421,15748660,Ellis,Germany,Female,49,1,561,102025.32,1,1,0,133051.64,85.42,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+422,15658057,Padovesi,Spain,Female,44,8,812,0.0,3,1,0,66926.83,85.42,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+423,15718465,Sadler,Germany,Male,51,3,671,96891.46,1,1,0,176403.33,85.4,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+424,15658969,Gray,France,Male,51,7,711,0.0,3,1,0,38409.79,85.32,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+425,15615296,Rice,France,Male,39,10,405,0.0,1,1,0,160810.85,85.31,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+426,15806318,Wright,Germany,Female,48,2,676,124442.38,1,1,0,15068.53,85.28,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+427,15571928,Fraser,France,Female,43,4,679,0.0,3,1,0,115136.51,85.28,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+428,15762716,Chigozie,Spain,Female,60,10,762,168920.75,1,1,0,31445.03,85.24,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+429,15734649,Martel,Spain,Female,55,0,779,133295.98,1,1,0,22832.71,85.23,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+430,15673877,Murray,France,Male,39,1,490,0.0,3,1,0,171060.01,85.15,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+431,15679410,Caldwell,France,Female,62,4,729,140549.4,1,1,0,30990.16,85.11,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+432,15697100,Wright,Germany,Female,48,6,772,108736.52,1,1,0,184564.67,85.05,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+433,15746515,Greece,France,Male,36,7,750,136492.92,3,1,1,26500.29,84.94,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+434,15618255,Fedorov,Germany,Female,56,6,642,103244.86,2,1,0,143049.72,84.87,High Risk,1,1,Relationship-manager outreach and digital engagement support
+435,15607526,Lu,Germany,Male,50,1,638,102645.48,1,1,0,168359.98,84.85,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+436,15623314,Tucker,Germany,Female,59,3,506,190353.08,1,1,0,78365.75,84.84,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+437,15794056,Johnston,France,Female,46,2,668,0.0,3,1,0,89048.46,84.69,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+438,15640507,Li,Spain,Female,35,3,762,119349.69,3,1,1,47114.18,84.62,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+439,15707674,Marino,France,Female,58,2,515,131852.81,1,1,0,81436.68,84.61,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+440,15618936,MacDonald,France,Female,51,5,688,0.0,1,1,0,91624.11,84.6,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+441,15686099,Ruse,Spain,Male,61,1,563,82182.1,1,1,0,106826.92,84.51,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+442,15593976,Swanson,Germany,Female,31,5,578,102088.68,4,0,0,187866.21,84.48,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+443,15691817,Iloerika,Spain,Female,44,5,547,0.0,3,0,0,5459.07,84.47,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+444,15729201,Harewood,France,Male,55,9,682,0.0,1,1,0,153356.8,84.45,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+445,15614168,Alexander,Germany,Female,50,4,792,146710.76,1,1,0,16528.4,84.44,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+446,15708212,Lin,Spain,Female,54,7,648,118241.02,1,1,0,172586.89,84.42,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+447,15751491,Hsiao,Germany,Male,50,3,443,117206.3,1,1,0,42840.18,84.37,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+448,15592716,Clarke,France,Male,52,2,559,0.0,1,1,0,129013.59,84.34,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+449,15587233,Donoghue,France,Male,41,8,457,73700.12,3,1,1,185750.02,84.3,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+450,15793049,Atkins,Germany,Female,48,8,680,115115.38,1,1,0,139558.6,84.3,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+451,15686236,Trevisani,Germany,Female,47,1,525,118087.68,1,1,0,88120.78,84.19,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+452,15734202,Chidimma,Germany,Female,52,4,660,86891.84,1,1,0,90877.76,84.18,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+453,15727811,Ts'ui,Germany,Female,47,0,661,109493.62,1,0,0,188324.01,84.17,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+454,15676571,Bezrukova,France,Male,55,6,850,0.0,1,1,0,944.41,84.1,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+455,15671769,Zikoranachidimma,France,Female,71,4,624,170252.05,3,1,1,73679.59,84.1,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+456,15691513,Dawkins,France,Male,60,9,592,0.0,4,1,1,13614.01,84.1,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+457,15673020,Smith,France,Female,49,3,678,204510.94,1,0,1,738.88,83.91,High Risk,1,1,Needs-based product review and personalized loyalty offer
+458,15676404,Kirillov,France,Female,50,1,672,0.0,1,1,0,12106.82,83.89,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+459,15724154,Manna,Germany,Female,49,4,625,128504.76,1,1,0,126812.63,83.87,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+460,15713483,Greeves,Spain,Male,52,2,793,0.0,1,1,0,159123.82,83.77,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+461,15657349,Carter,Germany,Female,50,8,803,98173.02,1,0,0,22457.25,83.76,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+462,15649150,Buddicom,France,Female,53,5,531,127642.44,1,1,0,141501.45,83.73,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+463,15804142,Tan,Spain,Female,57,3,670,175575.95,2,1,0,99061.75,83.71,High Risk,1,1,Relationship-manager outreach and digital engagement support
+464,15814846,Ozerova,France,Male,52,3,691,0.0,1,1,0,175843.68,83.69,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+465,15738907,Tobenna,France,Female,60,6,798,96956.1,1,1,0,31907.44,83.68,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+466,15651823,Nkemjika,France,Female,60,6,590,147751.75,1,1,0,88206.04,83.67,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+467,15798844,Chijindum,France,Male,54,7,678,128914.97,1,0,0,191746.23,83.58,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+468,15588080,Giles,France,Male,54,6,675,0.0,1,1,0,110273.84,83.58,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+469,15718242,Wollstonecraft,Germany,Female,47,1,725,104887.43,1,0,0,86622.56,83.56,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+470,15783225,Cocci,France,Male,54,9,737,0.0,1,1,0,83470.4,83.53,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+471,15750731,Trevisani,Germany,Male,50,9,736,116309.01,1,1,0,185360.4,83.43,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+472,15806049,Lee,Germany,Female,49,5,714,140510.89,1,1,0,141914.94,83.4,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+473,15812888,Perreault,France,Male,41,3,447,0.0,4,1,1,197490.39,83.4,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+474,15631406,Munro,Germany,Male,50,5,459,109387.9,1,1,0,155721.15,83.35,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+475,15608381,Dean,Germany,Male,50,2,585,125845.66,1,1,0,9439.31,83.33,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+476,15700263,Ifeatu,France,Male,66,2,569,0.0,1,1,0,130784.2,83.31,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+477,15775192,Rounsevell,Germany,Female,48,4,732,102962.62,1,1,0,120852.85,83.3,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+478,15778368,Allan,Germany,Male,50,4,552,121175.56,1,1,0,117505.07,83.25,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+479,15591169,Hawes,Germany,Female,49,4,788,137455.99,1,1,0,184178.29,83.11,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+480,15597949,Gilbert,Germany,Female,47,5,768,104552.61,1,1,0,48137.08,83.1,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+481,15597896,Ozoemena,Germany,Male,30,0,365,127760.07,1,1,0,81537.85,83.05,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+482,15769917,Onyekachi,Germany,Female,34,1,673,127122.79,3,0,1,76703.1,82.98,High Risk,1,0,"Review product suitability, fees, service quality, and product complexity"
+483,15613189,Browne,France,Female,52,2,774,56580.93,1,1,0,113266.28,82.98,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+484,15574830,Townsley,Germany,Male,58,2,633,128137.42,2,1,0,147635.33,82.96,High Risk,1,1,Relationship-manager outreach and digital engagement support
+485,15629677,Distefano,Spain,Female,39,2,687,0.0,3,0,0,188150.6,82.89,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+486,15668575,Hao,Spain,Female,26,8,626,148610.41,3,0,1,104502.02,82.88,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+487,15705009,Cartwright,France,Female,56,8,649,156974.26,1,1,0,89405.26,82.88,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+488,15622897,Sharpe,France,Female,46,4,646,0.0,3,1,0,93251.42,82.82,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+489,15684196,Aitken,France,Female,55,2,627,159441.27,1,1,0,100686.11,82.8,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+490,15719991,Korovina,Spain,Female,52,1,727,154733.97,1,1,0,80259.67,82.79,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+491,15735878,Law,Germany,Female,47,10,850,134381.52,1,0,0,26812.89,82.74,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+492,15789582,Macleod,France,Male,55,9,587,0.0,1,1,0,64593.07,82.71,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+493,15647842,Cunningham,Germany,Female,48,8,601,120782.7,1,1,0,63940.68,82.62,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+494,15605916,Uvarova,France,Female,50,3,659,0.0,1,1,0,183399.12,82.59,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+495,15724321,Baresi,Germany,Female,47,9,516,128298.74,1,0,0,149614.17,82.54,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+496,15763256,Sheppard,Germany,Female,64,8,661,128751.65,2,1,0,189398.18,82.52,High Risk,1,1,Relationship-manager outreach and digital engagement support
+497,15757952,Teng,France,Male,44,2,651,0.0,3,1,0,102530.35,82.51,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+498,15777553,Hanson,France,Female,56,9,659,123785.24,1,1,0,99504.03,82.48,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+499,15727353,Ch'ang,France,Female,64,7,650,142028.36,1,1,0,32275.09,82.39,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+500,15789955,Hu,Germany,Male,56,1,698,112414.81,2,0,0,93982.02,82.38,High Risk,1,1,Relationship-manager outreach and digital engagement support
+501,15775306,Ni,Germany,Male,28,8,421,122384.22,3,1,1,89017.38,82.37,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+502,15792228,Onwumelu,France,Male,60,0,748,152335.7,1,1,0,126743.33,82.33,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+503,15588944,Maughan,France,Female,63,1,456,165350.61,2,0,0,140758.07,82.32,High Risk,1,1,Relationship-manager outreach and digital engagement support
+504,15677921,Bobrov,Germany,Male,60,9,720,115920.62,2,0,0,157552.08,82.3,High Risk,1,1,Relationship-manager outreach and digital engagement support
+505,15652030,De Bernales,Germany,Male,49,2,637,108204.52,1,1,0,169037.84,82.24,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+506,15649121,Pinto,France,Male,52,3,665,0.0,1,1,0,116137.01,82.23,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+507,15812198,Chen,Germany,Male,48,1,543,100900.5,1,0,0,33310.72,82.22,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+508,15623944,T'ien,Spain,Female,66,4,511,0.0,1,1,0,1643.11,82.15,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+509,15593128,Vinogradoff,France,Female,56,10,608,129255.2,2,1,0,142492.04,82.14,High Risk,1,1,Relationship-manager outreach and digital engagement support
+510,15603851,Galkin,France,Male,32,7,704,127785.17,4,0,0,184464.7,82.11,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+511,15771409,McGregor,France,Male,58,7,586,151933.63,1,1,0,162960.05,82.09,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+512,15594408,Chia,Spain,Female,48,2,584,213146.2,1,1,0,75161.25,81.98,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+513,15732430,H?,Spain,Female,54,4,850,120952.74,1,1,0,66963.15,81.89,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+514,15649033,Echezonachukwu,Germany,Female,55,7,603,127723.25,2,1,0,139469.11,81.83,High Risk,1,1,Relationship-manager outreach and digital engagement support
+515,15721658,Fleming,Spain,Female,56,2,672,209767.31,2,1,1,150694.42,81.82,High Risk,1,1,Personalized retention call and customer-service review
+516,15680706,Balashov,Germany,Male,48,4,537,131834.8,1,1,0,166476.95,81.72,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+517,15757306,Miller,Spain,Male,49,3,738,0.0,3,1,1,65066.48,81.66,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+518,15810593,Forbes,France,Male,51,4,568,0.0,3,1,1,66586.56,81.65,High Risk,1,0,"Review product suitability, fees, service quality, and product complexity"
+519,15745250,Simpson,France,Male,58,8,850,156652.13,1,0,0,25899.21,81.62,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+520,15730044,Greco,Germany,Female,42,6,809,64497.94,3,0,1,182436.81,81.59,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+521,15766044,Cameron,Germany,Male,49,4,642,120688.61,1,1,0,24770.22,81.56,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+522,15600934,Randell,France,Female,52,7,758,125095.94,1,1,0,171189.83,81.56,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+523,15571778,Trentini,France,Female,55,10,817,117561.49,1,1,0,95941.55,81.55,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+524,15566312,Jolly,Spain,Female,42,5,660,0.0,3,1,1,189016.24,81.53,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+525,15720637,Bell,Germany,Female,46,10,710,120530.34,1,1,0,166586.99,81.49,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+526,15619608,Ojiofor,Germany,Female,50,10,454,92895.56,1,1,0,154344.0,81.46,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+527,15787318,Holmwood,Germany,Female,47,6,537,103163.35,1,1,0,16259.64,81.44,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+528,15813067,Williams,Germany,Female,45,3,432,110219.14,1,1,0,43046.7,81.42,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+529,15798975,Doherty,Germany,Male,48,4,606,132403.56,1,0,0,36091.91,81.33,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+530,15731555,Ross-Watt,Germany,Female,45,9,595,106000.12,1,0,0,191448.96,81.25,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+531,15589572,Otutodilichukwu,Spain,Female,61,4,785,129855.72,2,1,0,170214.82,81.24,High Risk,1,1,Relationship-manager outreach and digital engagement support
+532,15689781,Ts'ai,France,Female,49,0,826,0.0,1,0,0,178709.98,81.13,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+533,15693864,Iheanacho,Germany,Female,49,5,567,134956.02,1,1,0,93953.84,81.06,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+534,15773276,Townsend,Spain,Male,63,4,633,114552.6,1,1,0,73856.28,81.05,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+535,15745533,Sargent,France,Female,63,1,799,110314.21,2,1,0,37464.0,81.04,High Risk,1,1,Relationship-manager outreach and digital engagement support
+536,15601811,Caldwell,France,Female,53,10,668,110240.04,1,0,0,183980.56,81.01,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+537,15727197,Pinto,France,Female,52,9,576,170228.59,2,0,0,148477.57,81.01,High Risk,1,1,Relationship-manager outreach and digital engagement support
+538,15603565,Mackenzie,Spain,Female,56,5,603,90778.76,2,1,0,162223.67,80.89,High Risk,1,1,Relationship-manager outreach and digital engagement support
+539,15683124,Evans,France,Male,53,6,713,115029.4,1,0,0,191521.32,80.89,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+540,15791102,Mai,Germany,Male,41,9,549,95020.8,3,1,1,131710.59,80.87,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+541,15768600,Harris,Germany,Male,50,9,805,130023.38,1,1,0,62989.82,80.86,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+542,15690829,Sandefur,Germany,Male,49,3,430,137115.16,1,1,0,146516.86,80.86,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+543,15642530,Coates,Germany,Female,47,10,706,144090.42,1,1,0,140938.95,80.82,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+544,15751455,Boyle,France,Female,48,5,469,0.0,1,1,0,160529.71,80.8,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+545,15612095,Calabrese,France,Female,48,9,751,0.0,1,1,0,137508.42,80.69,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+546,15707473,Summers,Germany,Female,48,6,850,111962.99,1,1,0,111755.8,80.65,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+547,15635141,Miller,Germany,Male,59,8,598,118210.42,2,0,0,60192.14,80.63,High Risk,1,1,Relationship-manager outreach and digital engagement support
+548,15713440,Barese,Germany,Female,21,1,519,151701.45,3,1,1,170138.68,80.63,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+549,15689328,Harrison,Germany,Male,48,9,705,114169.16,1,0,0,173273.2,80.56,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+550,15759618,Alexeeva,France,Female,48,9,535,0.0,1,1,0,149892.79,80.52,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+551,15635435,White,France,Female,54,9,648,120633.42,1,0,0,5924.38,80.52,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+552,15585367,Diribe,Germany,Female,46,4,555,120392.99,1,1,0,177719.88,80.44,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+553,15633233,McFarland,France,Male,56,1,500,100374.58,1,1,0,118490.8,80.43,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+554,15648794,Giordano,Spain,Male,57,4,836,101247.06,1,1,0,37141.62,80.41,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+555,15715622,To Rot,France,Female,57,3,583,238387.56,1,0,1,147964.99,80.31,High Risk,1,1,Needs-based product review and personalized loyalty offer
+556,15713975,Gibson,Germany,Female,47,10,565,139756.12,1,1,0,165849.49,80.15,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+557,15690007,Ts'ui,Germany,Female,58,9,434,125801.03,2,1,0,60891.8,80.08,High Risk,1,1,Relationship-manager outreach and digital engagement support
+558,15694556,Nkemakolam,France,Male,60,2,684,116563.58,1,1,0,120257.7,80.06,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+559,15655410,Hinton,Germany,Male,49,1,768,133384.66,1,1,0,102397.22,80.02,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+560,15642345,Y?,Germany,Female,49,4,714,93059.34,1,1,0,7571.51,79.98,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+561,15683053,Reyna,Spain,Female,48,2,809,0.0,1,1,0,160976.85,79.97,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+562,15699523,Chu,Germany,Female,55,4,499,126817.65,2,1,0,123269.71,79.96,High Risk,1,0,Relationship-manager outreach and digital engagement support
+563,15618239,Neumann,France,Female,48,0,530,0.0,1,1,0,85081.09,79.88,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+564,15647385,Ch'iu,Spain,Male,56,4,579,99340.83,1,0,0,4523.74,79.87,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+565,15633930,Yobachukwu,Spain,Female,56,6,648,157559.59,2,1,0,140991.23,79.84,High Risk,1,1,Relationship-manager outreach and digital engagement support
+566,15704987,Lu,France,Female,52,8,649,49113.75,1,1,0,41858.43,79.8,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+567,15734524,Wang,France,Male,51,3,653,0.0,1,1,0,170426.65,79.7,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+568,15569274,Pisano,Germany,Male,49,2,678,116933.11,1,1,0,195053.58,79.69,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+569,15725794,Winters,France,Female,49,1,659,0.0,1,1,0,116249.72,79.59,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+570,15737267,Marcelo,France,Female,49,1,676,0.0,1,1,0,79342.31,79.59,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+571,15694765,Sabbatini,Germany,Male,49,6,610,113882.33,1,1,0,195813.81,79.54,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+572,15769959,Ajuluchukwu,France,Female,53,4,597,88381.21,1,1,0,69384.71,79.49,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+573,15714485,Udinese,France,Male,60,5,774,85891.55,1,1,0,74135.48,79.43,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+574,15760216,Pokrovskaya,France,Female,49,10,718,0.0,1,1,0,184474.72,79.43,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+575,15571529,Kirby,Germany,Female,48,7,650,138232.24,1,1,0,57594.78,79.36,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+576,15601659,Fiorentino,Germany,Female,59,7,496,91680.1,2,1,0,163141.18,79.3,High Risk,1,1,Relationship-manager outreach and digital engagement support
+577,15744873,Wright,Germany,Female,48,5,657,143595.87,1,0,0,101314.65,79.28,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+578,15664555,Hughes,France,Male,40,2,587,0.0,4,0,1,106174.7,79.26,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+579,15726855,Oliver,Germany,Female,45,9,805,116585.97,1,1,0,189428.75,79.24,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+580,15728963,Wei,Germany,Female,51,10,617,167273.71,1,0,0,93439.75,79.21,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+581,15649292,Bellucci,France,Female,49,7,748,29602.08,1,0,0,163550.58,79.15,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+582,15646372,Outhwaite,France,Female,66,1,616,135842.41,1,1,0,183840.51,79.11,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+583,15718057,Onyinyechukwuka,France,Female,51,2,760,100946.71,1,0,0,179614.8,79.07,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+584,15608873,Smith,France,Male,51,2,665,0.0,1,0,0,53353.36,79.07,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+585,15637753,O'Sullivan,Germany,Male,50,2,751,96888.39,1,1,0,77206.25,79.02,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+586,15608528,Munro,France,Female,68,9,645,0.0,4,1,1,176353.87,78.95,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+587,15732061,Liu,Germany,Female,45,1,850,121874.89,1,0,0,6865.41,78.95,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+588,15620756,Stokes,France,Male,49,6,747,202904.64,1,1,1,17298.72,78.93,High Risk,1,1,Needs-based product review and personalized loyalty offer
+589,15605698,Harrison,France,Male,58,3,746,0.0,3,1,1,80344.96,78.84,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+590,15738148,Clarke,France,Female,51,8,465,122522.32,1,0,0,181297.65,78.8,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+591,15691004,Yu,Spain,Male,37,1,407,0.0,1,1,1,49161.12,78.77,High Risk,1,1,Needs-based product review and personalized loyalty offer
+592,15761053,Lock,Germany,Male,48,2,596,131326.47,1,0,0,1140.02,78.76,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+593,15707567,Esposito,Germany,Male,50,6,732,145338.76,1,0,0,91936.1,78.73,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+594,15677796,Becher,Germany,Male,47,9,766,129289.98,1,1,0,169935.46,78.69,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+595,15756920,Genovesi,France,Male,63,9,576,70655.48,1,0,0,78955.8,78.68,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+596,15800434,Burgess,Germany,Male,52,10,811,76915.4,1,0,0,146359.81,78.67,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+597,15732643,Pike,Spain,Female,53,1,386,131955.07,1,1,1,62514.65,78.66,High Risk,1,1,Needs-based product review and personalized loyalty offer
+598,15770995,Sinclair,Germany,Female,47,1,753,131160.85,1,1,0,197444.69,78.66,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+599,15653849,Lu,Germany,Female,48,3,572,152827.99,1,1,0,38411.79,78.66,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+600,15760865,Fan,Germany,Female,48,7,754,141819.02,1,1,0,93550.53,78.59,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+601,15658768,Lucas,France,Female,49,2,547,0.0,1,0,0,65466.93,78.52,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+602,15720071,Fiorentini,France,Female,49,3,535,0.0,1,0,0,61820.41,78.52,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+603,15569079,Hagins,Germany,Male,48,6,632,126066.26,1,1,0,64345.61,78.51,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+604,15722010,Zuyev,Spain,Male,53,9,621,170491.84,1,1,0,35588.07,78.47,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+605,15684951,He,France,Female,59,2,542,68892.77,2,1,0,7905.06,78.34,High Risk,1,1,Relationship-manager outreach and digital engagement support
+606,15623499,Holman,Germany,Male,49,9,548,108437.89,1,0,0,127022.87,78.32,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+607,15756321,Johnston,Spain,Female,52,5,612,144772.69,1,0,0,98302.57,78.32,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+608,15790630,Olisaemeka,France,Female,48,4,619,0.0,1,0,0,18094.96,78.31,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+609,15587299,Board,France,Female,48,3,567,0.0,1,1,0,55362.45,78.24,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+610,15700627,Y?,Germany,Female,46,2,637,143500.82,1,1,0,166996.46,78.23,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+611,15627352,Bulgakov,Germany,Male,46,7,459,110356.42,1,1,0,4969.13,78.21,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+612,15654859,Ngozichukwuka,Spain,Female,63,2,612,131629.17,2,1,0,122109.58,78.18,High Risk,1,1,Relationship-manager outreach and digital engagement support
+613,15593736,Cook,Germany,Female,46,7,598,131769.04,1,0,0,184980.23,78.03,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+614,15772892,Robertson,France,Female,49,2,699,0.0,1,0,0,105760.01,77.98,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+615,15569595,Walker,France,Female,50,6,678,0.0,1,1,0,8199.5,77.98,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+616,15583863,Chimaobim,Germany,Male,49,8,681,142946.18,1,0,0,187280.51,77.97,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+617,15643770,Yu,France,Female,52,5,682,112670.48,1,1,0,21085.17,77.91,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+618,15779492,Trevisano,Spain,Male,56,6,796,94231.13,1,0,0,121164.6,77.89,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+619,15793949,Cheng,France,Female,48,4,726,0.0,1,1,0,114020.06,77.88,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+620,15761670,Morley,France,Female,50,8,695,0.0,1,1,0,126381.6,77.87,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+621,15732644,Evans,Spain,Female,54,5,567,92316.31,2,1,0,158590.66,77.85,High Risk,1,1,Relationship-manager outreach and digital engagement support
+622,15773283,Dennis,France,Male,65,6,641,38340.02,1,1,0,32607.77,77.85,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+623,15709016,North,Germany,Female,47,1,687,91219.29,1,0,0,158845.49,77.78,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+624,15745399,Marino,Spain,Female,49,2,649,0.0,1,1,0,84863.85,77.74,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+625,15677105,Rossi,Germany,Female,46,4,706,105214.58,1,1,0,108699.59,77.71,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+626,15628972,Nebeolisa,Germany,Male,32,1,699,123906.22,3,1,1,127443.82,77.7,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+627,15672374,Pai,France,Male,52,8,672,170008.84,1,0,0,56407.42,77.62,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+628,15771942,Tikhonov,Germany,Female,46,9,528,135555.66,1,1,0,133146.03,77.55,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+629,15601857,Woodhouse,Germany,Female,46,4,705,115518.07,1,0,0,76544.9,77.45,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+630,15670898,McKenzie,France,Female,60,5,740,108028.08,2,0,0,25980.42,77.41,High Risk,1,1,Relationship-manager outreach and digital engagement support
+631,15762762,Onyekachukwu,Germany,Female,45,5,648,118886.55,1,0,0,51636.7,77.33,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+632,15589475,Azikiwe,Spain,Female,39,3,591,0.0,3,1,0,140469.38,77.28,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+633,15709941,Feng,France,Male,46,8,753,0.0,3,1,0,90747.94,77.24,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+634,15597930,Wilson,France,Male,52,8,646,59669.43,1,0,0,172495.81,77.18,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+635,15725679,Hsia,France,Female,47,6,531,0.0,1,0,0,194998.34,77.15,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+636,15761554,Blackburn,France,Male,54,4,581,89299.81,1,0,0,5558.47,77.15,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+637,15728706,Amaechi,France,Female,49,7,534,0.0,1,1,0,13566.48,77.14,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+638,15647292,Peng,France,Male,63,7,697,148368.02,1,0,0,118862.08,77.07,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+639,15669414,Pisano,Germany,Male,62,9,486,118356.89,2,1,0,168034.83,77.06,High Risk,1,1,Relationship-manager outreach and digital engagement support
+640,15678284,Pai,France,Male,35,7,651,74623.5,3,1,0,129451.29,76.93,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+641,15740442,May,France,Male,51,8,603,186825.57,1,1,0,93739.71,76.78,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+642,15758023,Grigoryeva,Germany,Male,47,5,544,105245.21,1,0,0,99922.08,76.61,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+643,15812616,Enyinnaya,France,Female,49,10,707,0.0,1,1,0,82967.97,76.59,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+644,15810723,Sanderson,France,Female,39,10,607,0.0,3,1,0,132741.13,76.51,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+645,15758813,Campbell,Germany,Male,39,0,350,109733.2,2,0,0,123602.11,76.44,High Risk,1,1,Relationship-manager outreach and digital engagement support
+646,15781553,Chung,Germany,Female,49,9,760,91502.99,1,1,0,117232.9,76.39,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+647,15624519,Calabrese,Germany,Female,49,9,656,97092.87,1,1,0,74771.22,76.37,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+648,15776454,Hamilton,France,Female,48,5,603,0.0,1,1,0,100478.6,76.33,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+649,15669899,Fitts,Germany,Female,45,7,755,135643.0,1,0,0,143619.52,76.32,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+650,15769703,West,Germany,Female,45,8,550,111257.59,1,0,0,97623.42,76.24,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+651,15811343,Cattaneo,Germany,Male,35,5,644,161591.11,3,1,1,63795.62,76.17,High Risk,1,0,"Review product suitability, fees, service quality, and product complexity"
+652,15805704,Murphy,France,Female,32,2,745,0.0,4,0,1,179705.13,76.15,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+653,15617486,Sullivan,France,Male,52,1,530,106723.28,1,0,0,109960.4,76.14,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+654,15579334,Watkins,Germany,Female,45,5,769,126674.81,1,1,0,124118.71,75.97,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+655,15635870,She,Germany,Female,50,5,579,117721.02,1,0,1,192146.63,75.85,High Risk,1,1,Needs-based product review and personalized loyalty offer
+656,15758901,Henderson,Spain,Female,47,1,713,0.0,1,1,0,107825.08,75.81,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+657,15616152,Pai,France,Female,47,1,754,185513.67,1,1,0,27438.83,75.73,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+658,15666055,Rowe,France,Female,49,7,705,0.0,1,1,0,63405.2,75.68,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+659,15652626,Grave,France,Male,55,4,826,115285.85,1,1,0,140126.17,75.64,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+660,15765300,L?,Germany,Male,40,5,596,62389.03,3,1,0,148623.43,75.56,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+661,15577515,Sung,Germany,Female,55,0,554,108477.27,1,0,1,140003.0,75.5,High Risk,1,1,Needs-based product review and personalized loyalty offer
+662,15690452,Tung,France,Male,52,1,605,63349.75,1,1,0,108887.44,75.45,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+663,15586674,Shaw,Spain,Female,58,5,663,216109.88,1,0,1,74176.71,75.36,High Risk,1,1,Needs-based product review and personalized loyalty offer
+664,15687153,Graham,Germany,Male,49,8,850,98649.55,1,1,0,119174.88,75.31,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+665,15693764,Mai,Spain,Male,52,0,663,136298.65,1,1,0,144593.3,75.11,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+666,15640074,Barrett,Spain,Female,47,5,666,0.0,1,0,0,166650.9,75.07,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+667,15602010,Zikoranaudodimma,Germany,Female,45,5,850,103909.86,1,1,0,60083.11,75.06,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+668,15566988,Iqbal,Germany,Female,46,7,656,141535.52,1,1,0,50595.15,74.97,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+669,15668309,Maslow,France,Female,40,0,350,111098.85,1,1,1,172321.21,74.9,High Risk,1,1,Needs-based product review and personalized loyalty offer
+670,15634245,Muecke,Germany,Female,47,9,758,95523.16,1,1,0,73294.48,74.85,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+671,15756804,O'Loghlen,France,Female,48,1,636,170833.46,1,1,0,110510.28,74.72,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+672,15765518,Gregson,France,Female,51,2,643,105229.53,1,1,0,34967.75,74.69,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+673,15744044,Fiorentini,Germany,Male,47,4,572,99353.42,1,1,0,196549.85,74.62,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+674,15715907,Onwubiko,France,Male,64,9,699,113109.52,1,1,0,27980.8,74.57,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+675,15623712,Coates,Spain,Female,42,5,453,0.0,3,1,0,83008.49,74.53,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+676,15596455,Mao,Spain,Female,45,2,546,0.0,1,0,0,197789.83,74.43,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+677,15728005,Urban,France,Female,57,9,698,111359.55,2,1,0,105715.01,74.39,High Risk,1,0,Relationship-manager outreach and digital engagement support
+678,15756026,Hooper,Spain,Female,46,9,790,0.0,1,0,0,14679.81,74.38,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+679,15808868,Nwokeocha,France,Female,31,3,652,103696.97,3,0,0,155221.05,74.37,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+680,15675337,Forbes,Germany,Female,34,5,395,106011.59,1,1,1,17376.57,74.36,High Risk,1,1,Needs-based product review and personalized loyalty offer
+681,15589793,Onwuamaeze,France,Male,53,8,604,144453.75,1,1,0,190998.96,74.35,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+682,15629299,Yang,Germany,Female,52,1,546,106074.89,1,1,1,23548.45,74.25,High Risk,1,1,Needs-based product review and personalized loyalty offer
+683,15803689,Begum,Germany,Female,51,1,647,119741.77,2,0,0,54954.51,74.18,High Risk,1,1,Relationship-manager outreach and digital engagement support
+684,15640580,Obiora,France,Female,47,9,650,0.0,1,1,0,187943.6,74.17,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+685,15582168,Muravyova,Germany,Female,61,4,713,149525.34,2,1,0,123663.63,74.13,High Risk,1,0,Relationship-manager outreach and digital engagement support
+686,15661626,Algeranoff,Germany,Female,45,6,732,98792.4,1,1,0,81491.7,74.12,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+687,15768163,Griffin,Germany,Female,46,7,655,137145.12,1,1,0,115146.4,73.97,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+688,15706163,Enyinnaya,Germany,Male,46,4,518,113625.93,1,0,0,92727.42,73.89,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+689,15797900,Chinomso,France,Male,56,9,517,142147.32,1,0,0,39488.04,73.88,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+690,15633213,Rizzo,Spain,Male,50,8,628,0.0,1,0,0,144366.83,73.87,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+691,15582325,Jennings,France,Male,52,2,524,87894.26,1,1,0,173899.42,73.86,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+692,15657306,Kershaw,France,Female,47,2,567,0.0,1,0,0,110900.43,73.84,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+693,15654025,Jones,France,Female,51,4,646,101629.3,1,0,0,130541.1,73.83,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+694,15641319,Afanasyeva,Spain,Male,50,4,518,0.0,1,0,0,107112.25,73.75,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+695,15755649,Winter-Irving,Germany,Male,47,7,584,130538.77,1,1,0,92915.84,73.68,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+696,15808386,Cocci,Germany,Female,45,7,721,138523.2,1,0,0,59604.45,73.53,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+697,15607537,Crawford,Germany,Male,46,9,587,107850.82,1,1,0,139431.0,73.5,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+698,15785406,Watts,France,Female,51,4,446,105056.13,1,0,0,70613.52,73.48,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+699,15798470,Scannell,Spain,Female,48,1,764,75990.97,1,1,0,158323.81,73.45,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+700,15693690,Iweobiegbunam,Spain,Male,52,7,574,115532.52,1,1,0,196257.67,73.39,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+701,15683183,Volkova,Germany,Female,45,6,766,97652.96,1,1,0,127332.33,73.17,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+702,15665956,Pendergrass,France,Female,46,1,509,0.0,1,1,0,71244.59,73.13,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+703,15586236,Banks,France,Male,31,5,704,132084.66,3,1,1,54474.48,73.08,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+704,15671209,Holden,Germany,Female,29,5,593,101713.84,3,1,0,134594.99,73.08,High Risk,1,0,"Review product suitability, fees, service quality, and product complexity"
+705,15732917,Li,Germany,Male,46,5,729,117837.43,1,1,0,104016.61,73.02,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+706,15749401,Ko,France,Male,60,9,686,0.0,3,1,1,75246.21,72.97,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+707,15591010,McDonald,Germany,Male,55,8,434,109339.17,2,1,0,96405.88,72.93,High Risk,1,1,Relationship-manager outreach and digital engagement support
+708,15678727,Tan,Germany,Male,45,4,770,110765.68,1,1,0,26163.74,72.86,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+709,15787161,Pisani,Germany,Male,46,4,591,129269.27,1,1,0,163504.33,72.85,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+710,15744517,Esposito,Spain,Male,50,9,735,0.0,1,0,0,166677.35,72.82,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+711,15660505,Romani,Germany,Male,46,2,735,106344.95,1,1,0,114371.33,72.81,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+712,15740487,Ross,France,Female,41,6,627,0.0,3,1,1,138700.75,72.66,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+713,15749905,Carr,Spain,Female,47,6,698,0.0,1,1,0,50213.81,72.6,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+714,15578297,Ebelegbulam,Germany,Female,43,1,737,125537.38,1,1,0,138510.01,72.55,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+715,15592412,Sun,Germany,Male,45,4,713,131038.14,1,1,0,74005.04,72.51,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+716,15588090,Ferri,Germany,Female,51,8,726,107494.86,2,1,0,140937.91,72.41,High Risk,1,1,Relationship-manager outreach and digital engagement support
+717,15593499,Stevens,Spain,Female,47,6,686,0.0,1,1,0,32080.69,72.4,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+718,15566660,Cole,France,Female,41,10,670,0.0,3,1,0,81602.02,72.38,High Risk,1,0,"Review product suitability, fees, service quality, and product complexity"
+719,15719940,Gibbons,Germany,Female,51,10,628,115280.49,2,0,0,12628.61,72.36,High Risk,1,1,Relationship-manager outreach and digital engagement support
+720,15785705,Thomson,Germany,Female,44,10,705,106731.58,1,1,0,137419.87,72.33,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+721,15595842,Paramor,Germany,Male,45,2,748,119852.01,1,0,0,73853.94,72.32,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+722,15573888,Ponomaryov,Germany,Female,43,1,648,107963.38,1,0,0,186438.86,72.26,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+723,15623369,Clifton,France,Male,52,10,708,105355.81,1,1,0,123.07,72.22,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+724,15597968,Fyans,Spain,Male,50,7,617,0.0,1,1,0,184839.7,72.21,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+725,15802741,Mitchel,France,Female,51,7,625,136294.97,1,1,0,38867.46,72.1,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+726,15678497,Lederer,Spain,Male,48,2,850,0.0,1,1,0,169425.3,72.09,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+727,15746674,Miller,France,Female,47,7,730,0.0,1,1,0,33373.26,72.03,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+728,15585901,Johnson,Spain,Male,35,1,717,0.0,3,0,0,174770.14,71.99,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+729,15592000,Calabresi,Germany,Female,48,9,781,82794.18,1,1,0,124720.68,71.93,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+730,15568573,Graham,Germany,Female,51,7,554,105701.91,1,0,1,179797.79,71.82,High Risk,1,1,Needs-based product review and personalized loyalty offer
+731,15573851,Macrossan,France,Female,38,1,735,0.0,3,0,0,92220.12,71.82,High Risk,1,1,"Review product suitability, fees, service quality, and product complexity"
+732,15627220,Kang,Germany,Female,43,9,735,98807.45,1,0,0,184570.04,71.73,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+733,15799635,Arbour,Spain,Male,51,2,577,108867.0,1,0,0,140800.66,71.55,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+734,15713774,Chikwendu,Spain,Female,46,6,644,12459.19,1,0,0,156787.34,71.5,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+735,15609913,Clark,France,Female,46,9,743,0.0,1,1,0,113436.08,71.46,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+736,15655213,Udinese,Germany,Female,51,8,591,132508.3,1,1,1,161304.68,71.45,High Risk,1,1,Needs-based product review and personalized loyalty offer
+737,15637599,Cremonesi,Germany,Female,44,4,510,123070.89,1,1,0,28461.29,71.45,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+738,15591986,Johnston,Germany,Male,46,6,621,141078.37,1,0,0,34580.8,71.41,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+739,15626008,Miller,Germany,Female,52,9,622,111973.97,1,1,1,162756.29,71.35,High Risk,1,1,Needs-based product review and personalized loyalty offer
+740,15639265,Isaacs,France,Male,54,7,714,126113.28,1,1,0,112777.38,71.34,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+741,15764033,Lin,Germany,Female,43,1,693,121927.92,1,1,0,87994.95,71.28,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+742,15751177,Milne,Germany,Female,44,2,685,119657.53,1,1,0,145387.05,71.25,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+743,15753110,McKay,Spain,Male,64,3,720,45752.78,2,1,0,79623.28,71.14,High Risk,1,1,Relationship-manager outreach and digital engagement support
+744,15581295,Ch'ien,Spain,Female,45,1,617,0.0,1,1,0,143298.06,71.13,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+745,15578671,Webb,Spain,Female,29,1,706,209490.21,1,1,1,133267.69,71.05,High Risk,1,1,Needs-based product review and personalized loyalty offer
+746,15761023,Murphy,Germany,Female,43,2,554,120847.11,1,1,0,7611.61,71.02,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+747,15569666,Goddard,France,Female,45,4,517,0.0,1,0,0,172674.36,70.9,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+748,15758116,Rossi,France,Male,53,5,666,64646.7,1,1,0,128019.48,70.88,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+749,15579826,Young,France,Female,66,9,439,0.0,1,1,0,65535.56,70.84,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+750,15650538,Sun,Germany,Female,48,7,445,168286.58,1,1,0,16645.77,70.82,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+751,15623630,Foster,Germany,Female,56,3,634,116251.24,1,0,1,42429.88,70.82,High Risk,1,1,Needs-based product review and personalized loyalty offer
+752,15584113,Pratt,Germany,Female,53,4,823,124954.94,1,0,1,131259.6,70.69,High Risk,1,1,Needs-based product review and personalized loyalty offer
+753,15673995,Tu,Spain,Female,65,9,516,102541.1,1,1,0,181490.42,70.69,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+754,15654456,Napolitano,Germany,Male,48,6,511,149726.08,1,0,0,88307.87,70.64,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+755,15634281,P'an,Germany,Female,43,10,720,110822.9,1,0,0,72861.94,70.59,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+756,15579130,Chidiegwu,Germany,Female,43,0,708,118994.84,1,1,0,181499.77,70.59,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+757,15750867,Nucci,Germany,Female,46,8,489,92060.06,1,1,0,147222.95,70.54,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+758,15605275,Ofodile,Germany,Male,45,8,725,116917.07,1,0,0,173464.43,70.53,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+759,15730793,Russell,Germany,Female,54,3,699,111009.32,1,1,1,155905.79,70.49,High Risk,1,1,Needs-based product review and personalized loyalty offer
+760,15788224,Sanderson,Germany,Male,45,1,669,123949.75,1,0,0,110881.56,70.42,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+761,15711314,Kao,Spain,Female,45,1,589,0.0,1,0,0,125939.22,70.34,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+762,15673238,McCarthy,Germany,Female,59,8,517,154110.99,2,1,0,101240.08,70.28,High Risk,1,1,Relationship-manager outreach and digital engagement support
+763,15609653,Ifeatu,Germany,Female,44,6,614,118715.86,1,1,0,133591.11,70.22,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+764,15772329,Fiorentino,Germany,Male,45,8,580,103741.14,1,1,0,47428.73,70.2,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+765,15675518,Charlton,Spain,Female,53,1,499,75225.53,2,0,0,144849.1,70.19,High Risk,1,1,Relationship-manager outreach and digital engagement support
+766,15636428,Sutherland,Spain,Female,45,1,703,0.0,1,1,0,182784.11,70.18,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+767,15796993,McCollum,France,Male,52,1,741,171236.3,2,0,0,21834.4,70.12,High Risk,1,1,Relationship-manager outreach and digital engagement support
+768,15747208,Watt,France,Male,50,6,608,0.0,1,1,0,93568.77,70.1,High Risk,1,1,Priority re-engagement contact and needs-based second-product review
+769,15620111,Fan,France,Male,54,8,659,133436.52,1,1,0,56787.8,70.08,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
+770,15765375,Butusov,France,Female,46,8,797,0.0,1,0,0,162668.33,70.0,High Risk,1,0,Priority re-engagement contact and needs-based second-product review
